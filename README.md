@@ -16,7 +16,7 @@ equal, then a tie is declared.
 
 The player that wins the majority of the three rounds will be the winner of the game.
 
-Please play the game <a href="">here</a>.
+Please play the game <a href="https://dianadevsit.github.io/rockPaperScissors/">here</a>.
 
 ## Testing
 
